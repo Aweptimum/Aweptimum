@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Aweptimum/Aweptimum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Howdy 👋
+I'm Sam, a backend developer with a degree in mechanical engineering
+
+I'm fascinated by math, geometry, data structures, and the systems behind video games
+
+I'm currently porting composer to lua because I'm that desperate for a good package manger
+
+## My languages:
+ - Lua
+ - PHP
+ - Typescript
+ - R
+## My tools:
+ - TimescaleDB (Postgres but even better)
+ - Symfony + Doctrine
+ - Git (but you probably figured that out)
+ - Azure
+ - LÖVE
