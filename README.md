@@ -30,3 +30,5 @@ I'm currently porting composer to lua because I'm that desperate for a good pack
  - Git (but you probably figured that out)
  - Azure
  - LÖVE
+
+(Not dead btw, mostly working on Gitlab)
